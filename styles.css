@@ -1,0 +1,25 @@
+.font{
+    font-size: 75px;
+    font-weight: bolder;
+}
+.name{
+  font-size: 65px;
+font-weight: bolder; 
+  line-height: 100px;
+}
+.developer{
+    font-family: "Poppins", sans-serif;
+    line-height: 70px;
+}
+.para{
+    font-size: 18px;
+}
+.press{
+    border-radius: 8px;
+}
+button{
+    color:white;
+}
+button:hover{
+    color:black;
+}
