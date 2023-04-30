@@ -17,3 +17,18 @@ font-weight: bolder;
 .press{
     border-radius: 8px;
 }
+ul{
+  list-style-type: none;
+}
+nav li{
+  display: inline;
+  margin-left: 20px;
+  line-height: 4px;
+ 
+}
+.img-fluid{
+  margin-top: 50px;
+}
+nav{
+  padding: 20px 0px;
+}
