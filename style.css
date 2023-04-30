@@ -7,3 +7,41 @@ ul{
     list-style-type: none;
     margin-left:80px;
 }
+nav li{
+  display: inline;
+  margin-left: 20px;
+  line-height: 4px;
+  list-style-type: none;
+ 
+}
+.img-fluid{
+  margin-top: 50px;
+}
+nav{
+  padding: 20px 0px;
+}
+.footer{
+  padding: 20px 70px;
+  margin-left: 30px;
+  margin-top: 80px;
+  border: 1px solid white;
+  background-color: rgb(241, 237, 244);
+  border-radius: 8px;
+}
+.font{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.gmail{
+  font-size: 35px;
+}
+.icons a{
+  margin:0 20px;
+}
+main{
+  line-height: 200px;
+}
+.website{
+  line-height: 200px;
+  
+}
